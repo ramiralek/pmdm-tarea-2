@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/character_detail"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".CharacterDetailActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/character_image"
+        android:id="@+id/character_detail_image"/>
+
+    <TextView
+        style="@style/characterName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/character_detail_name"/>
+
+    <TextView
+        style="@style/detailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/character_detail_description"/>
+
+    <TextView
+        style="@style/detailText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/character_detail_ability"/>
+
+</LinearLayout>

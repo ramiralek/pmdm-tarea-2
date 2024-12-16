@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PMDM Task 2</string>
+    <string name="about">About…</string>
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="toad">Toad</string>
+    <string name="mario_description">Hero of Mushroom Kingdom</string>
+    <string name="luigi_description">Mario\'s brother</string>
+    <string name="peach_description">Princess of Mushroom Kingdom</string>
+    <string name="toad_description">Resident and guardian of Mushroom Kingdom</string>
+    <string name="mario_ability">Jumps high</string>
+    <string name="luigi_ability">Jumps higher than Mario</string>
+    <string name="peach_ability">Can float for a few seconds when jumping</string>
+    <string name="toad_ability">Superior speed and agility</string>
+    <string name="character_image">Character\'s photo</string>
+    <string name="character_selected">You have selected the character</string>
+    <string name="welcome">Welcome to Mario\'s world</string>
+</resources>
